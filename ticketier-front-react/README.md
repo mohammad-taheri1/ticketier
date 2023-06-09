@@ -22,3 +22,6 @@
 -  [x] Convert pages import to lazy loading
 -  [x] Build Project & Deploy on netlify
 
+## Deployed version:
+
+[https://ticketire-front-devempower.netlify.app/](https://ticketire-front-devempower.netlify.app/)
